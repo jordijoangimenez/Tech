@@ -13,7 +13,7 @@ nav_order: 8
 
 <iframe width="60%" height="520" src="../docs/Tech_NPN.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_NPN.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_NPN.pdf){: .btn .btn-blue }
 
 ---
 
