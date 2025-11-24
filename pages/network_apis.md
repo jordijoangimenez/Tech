@@ -11,7 +11,7 @@ nav_order: 6
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/8){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_Network_APIs.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_Network_APIs.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_Network_APIs.pdf){: .btn .btn-blue }
 
