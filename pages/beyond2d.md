@@ -11,7 +11,7 @@ nav_order: 12
 
 <iframe width="60%" height="520" src="../docs/Tech_Beyond2D.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_Beyond2D.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_Beyond2D.pdf){: .btn .btn-blue }
 
 ---
 
