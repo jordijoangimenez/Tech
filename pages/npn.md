@@ -29,6 +29,7 @@ The following resources are available:
 
 ### General information about Non-Public Networks for Media Production
 
+* [**Preliminary work: Towards a comprehensive 5G-based toolbox for live media production**](../docs/Towards_a_comprehensive_5Gbased_toolbox_for_live_media_production.pdf)
 * [**Non-Public 5G Networks for Content Production**](../docs/Explainer_NonPublic_5G_Networks_for_Content_Production.pdf)
 * [**Deploying stand-alone Non-Public 5G Networks for media production**](../docs/Explainer_Deploying_Standalone_NPNs.pdf)
 * [**5G NPNs for media production in collaboration with third-party networks**](../docs/Explainer_NPNs_in_collaboration_with_3rd_party_networks.pdf)
