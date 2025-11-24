@@ -18,13 +18,14 @@ nav_order: 1
 ---
 
 ## Information related to Standards
+
 [Standards](../../Standards/pages/5g-media-streaming.html){: .btn .btn-blue }
 
 ## Information related to Reference Tools Projects
 
-[Project: 5G Media Streaming](https://5g-mag.github.io/Getting-Started/pages/5g-media-streaming/){: .btn .btn-blue }
+[Project: 5G Media Streaming](../../Getting-Started/pages/5g-media-streaming/){: .btn .btn-blue }
 
-[Project: 5G Core Service Consumers](https://5g-mag.github.io/Getting-Started/pages/5g-core-service-consumers/){: .btn .btn-blue }
+[Project: 5G Core Service Consumers](../../Getting-Started/pages/5g-core-service-consumers/){: .btn .btn-blue }
 
 ---
 
