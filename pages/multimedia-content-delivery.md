@@ -13,7 +13,7 @@ nav_order: 14
 
 <iframe width="60%" height="520" src="../docs/Tech_Multimedia_delivery_protocols.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_Multimedia_delivery_protocols.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_Multimedia_delivery_protocols.pdf){: .btn .btn-blue }
 
 ---
 
