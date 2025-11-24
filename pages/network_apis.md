@@ -27,60 +27,18 @@ nav_order: 6
 
 The following resources are available:
 
-### General information about 5G Media Streaming
+### Analysis of Network APIs: Industry Initiatives
 
-* [**Introduction to 5G Media Streaming (3GPP Release 16)**](./videos.html#introduction-to-5g-media-streaming-3gpp-release-16)
-* [**Dynamic Policies for 5G Media Streaming (3GPP Release 16)**](./videos.html#dynamic-policies-for-5g-media-streaming-3gpp-release-16)
-* [**5G Media Streaming over eMBMS (3GPP Release 17)**](./videos.html#5g-media-streaming-over-embms-3gpp-release-17)
-* [**Edge Media Processing in 5G Media Streaming (3GPP Release 17)**](./videos.html#edge-media-processing-in-5g-media-streaming-3gpp-release-17)
+* [Network API: CAMARA Project and 3GPP APIs](./Network_APIs/Network_API_Initiatives.html)
 
+### Network Capability Exposure for Content Production and Contribution Scenarios
 
+* [**Scenarios and Use Cases**](./Network_APIs/Content_Production/Production_Contribution_Scenarios.html). This is a selection of scenarios and use cases that may benefit from the use of network services (exposed via APIs).
+* [**Workflows and Requirements to exploit network capabilities**](./Network_APIs/Content_Production/Production_Contribution_Workflows.html). This describes generic workflows and interaction to explot network capabilities and provides insight into devices and requirements.
+* [**Using CAMARA APIs**](./Network_APIs/Content_Production/Production_Contribution_UsingNetworkAPIs.html). This contains several examples of instantiations of the workflows and scenarios above when using CAMARA APIs.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Overview
-<iframe width="60%" height="520" src="https://drive.google.com/file/d/1wh8V_CIaHXQt509aMAUFLR8z-w_xZp_d/preview"></iframe>
-
-[DOWNLOAD THE PRESENTATION](https://drive.google.com/file/d/1wh8V_CIaHXQt509aMAUFLR8z-w_xZp_d/preview){: .btn}
-
----
-
-<img src="../assets/images/Banner_ExecutionPlan.png" width="60%" /> 
-
-* Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/8)
-
----
-
-<img src="../assets/images/Banner_Documentation.png" width="60%" /> 
-
-## Network Capability Exposure for Content Production and Contribution Scenarios
-
-* [Scenarios and Use Cases](./Network_APIs/Content_Production/Production_Contribution_Scenarios.html). This is a selection of scenarios and use cases that may benefit from the use of network services (exposed via APIs).
-* [Workflows and Requirements to exploit network capabilities](./Network_APIs/Content_Production/Production_Contribution_Workflows.html). This describes generic workflows and interaction to explot network capabilities and provides insight into devices and requirements.
-* [Using CAMARA APIs](./Network_APIs/Content_Production/Production_Contribution_UsingNetworkAPIs.html). This contains several examples of instantiations of the workflows and scenarios above when using CAMARA APIs.
-
-## Network Capability Exposure for Live Media Streaming
+### Network Capability Exposure for Live Media Streaming
 
 * Scenarios: [Network Capability Exposure and APIs for Live Media Distribution](./Network_APIs/Live_Media_Distribution/Live_Media_Distribution_Scenarios.html).
 * Workflows: [Required interactions to exploit network capabilities](./Network_APIs/Live_Media_Distribution/Live_Media_Distribution_Workflows.html).
 * Requirements: [Network Capabilities (Network Services) for Content Production & Contribution](./Network_APIs/Live_Media_Distribution/Live_Media_Distribution_Requirements.html).
-
-## Analysis of Network APIs: Industry Initiatives
-
-* [Network API Initiatives under analysis including CAMARA Project and 3GPP APIs](./Network_APIs/Network_API_Initiatives.html)
-
----
