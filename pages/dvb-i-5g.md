@@ -11,7 +11,7 @@ nav_order: 15
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/17){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_DVB_I_over_5G.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_DVB_I_over_5G.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_DVB_I_over_5G.pdf){: .btn .btn-blue }
 
