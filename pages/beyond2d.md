@@ -7,26 +7,18 @@ nav_order: 12
 
 <img src="../assets/images/Banner_B2D.png" /> 
 
-# Beyond 2D Video Experiences - Tech Resources
+[Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/15){: .btn .btn-blue }
 
-* Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/15)
-* Information on relevant [**Standards**](https://5g-mag.github.io/Standards/pages/beyond2d.html)
-* **Reference Tools** available:
-   * [**Project: Beyond 2D Evaluation Framework**](https://5g-mag.github.io/Getting-Started/pages/beyond-2d-evaluation-framework/)
+<iframe width="60%" height="520" src="../../docs/Tech_Beyond2D_Video_Evaluation.pdf"></iframe>
 
-## Overview
-<iframe width="60%" height="520" src="https://drive.google.com/file/d/1U2L-xyZgKXwOmO5tPQIp2VGpch0j4lsl/preview"></iframe>
-
-[DOWNLOAD THE PRESENTATION](https://drive.google.com/file/d/1U2L-xyZgKXwOmO5tPQIp2VGpch0j4lsl/preview){: .btn}
+[Download the slidedeck with more information](../../docs/Tech_Beyond2D_Video_Evaluation.pdf){: .btn .btn-blue }
 
 ---
 
-<img src="../assets/images/Banner_WorkTracking.png" width="50%" /> 
+## Information related to Standards
 
-This is a summary of the work conducted by 5G-MAG members on this topic. Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/15) for details.
+[Standards](../../Standards/pages/beyond2d.html){: .btn .btn-blue }
 
-### In relation to Standards
-* 3GPP and MPEG Standardization tracker and relevant Work Items
+## Information related to Reference Tools Projects
 
-### In relation to Software
-* Implementation of Beyond 2D Video Evaluation Framework to support standardization activities in 3GPP
+[Project: Beyond 2D Evaluation Framework](../../Getting-Started/pages/beyond-2d-evaluation-framework/){: .btn .btn-blue }
