@@ -39,6 +39,9 @@ The following resources are available:
 * [**Spectrum for LTE-based 5G Terrestrial Broadcast**](../docs/Explainer_Spectrum_for_LTEbased_5G_Terrestrial_Broadcast.pdf)
 * [**5G Media Streaming over eMBMS (3GPP Release 17)**](./videos.html#5g-media-streaming-over-embms-3gpp-release-17)
 
+### Analysis of Time-Frequency Interleaving for 5G Broadcast
+* [**Time and Frequency Interleaving for broadcast services in 3GPP Systems**](../docs/Time_and_Frequency_Interleaving_for_broadcast_services_in_3GPP_Systems.pdf)
+
 ###  Deployment Profiles and Operational Parameters
 * [**5G Broadcast Deployment Profiles**](./5gbroadcast/deployment_profiles.html).
 * [**5G Broadcast Operational Parameters in Use**](./5gbroadcast/parameters_in_use.html).
