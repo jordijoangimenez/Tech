@@ -11,7 +11,7 @@ nav_order: 10
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/13){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_XR_Media_MPEG_I_SD.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_XR_Media_MPEG_I_SD.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_XR_Media_MPEG_I_SD.pdf){: .btn .btn-blue }
 
