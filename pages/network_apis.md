@@ -13,7 +13,7 @@ nav_order: 6
 
 <iframe width="60%" height="520" src="../docs/Tech_Network_APIs.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_Network_APIs.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_Network_APIs.pdf){: .btn .btn-blue }
 
 ---
 
