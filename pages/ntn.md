@@ -13,7 +13,7 @@ nav_order: 7
 
 <iframe width="60%" height="520" src="../docs/Tech_NTN.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_NTN.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_NTN.pdf){: .btn .btn-blue }
 
 ---
 
