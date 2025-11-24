@@ -13,7 +13,7 @@ nav_order: 1
 
 <iframe width="60%" height="520" src="../docs/Tech_5G_Media_Streaming.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_5G_Media_Streaming.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_5G_Media_Streaming.pdf){: .btn .btn-blue }
 
 ---
 
