@@ -13,7 +13,7 @@ nav_order: 11
 
 <iframe width="60%" height="520" src="../docs/Tech_V3C.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_V3C.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_V3C.pdf){: .btn .btn-blue }
 
 ---
 
