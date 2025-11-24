@@ -11,7 +11,7 @@ nav_order: 11
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/18){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_V3C.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_V3C.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_V3C.pdf){: .btn .btn-blue }
 
