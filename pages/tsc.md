@@ -13,7 +13,7 @@ nav_order: 9
 
 <iframe width="60%" height="520" src="../docs/Tech_TSC.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_TSC.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_TSC.pdf){: .btn .btn-blue }
 
 ---
 
