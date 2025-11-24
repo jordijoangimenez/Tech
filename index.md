@@ -60,8 +60,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/volumetric-video.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_V3C_Immersive_Platform.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/beyond2d.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Beyond2D_Video_Evaluation.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/volumetric-video.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_V3C.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/beyond2d.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Beyond2D.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/volumetric-video.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/18){: .btn .btn-blue } </td>
@@ -69,8 +69,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Reference_Tools_AIML_Evaluation_Framework.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="80%" style="border:5px solid black;" src="./assets/images/Reference_Tools_Multimedia_delivery_protocols.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_AIML.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Multimedia_delivery_protocols.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Project Documentation](./pages/ai-ml-evaluation-framework/){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/44/views/16){: .btn .btn-blue } </td>
