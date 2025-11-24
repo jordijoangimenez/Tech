@@ -13,7 +13,7 @@ nav_order: 15
 
 <iframe width="60%" height="520" src="../docs/Tech_DVB_I_over_5G.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_DVB_I_over_5G.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_DVB_I_over_5G.pdf){: .btn .btn-blue }
 
 ---
 
