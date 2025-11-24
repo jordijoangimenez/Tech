@@ -9,6 +9,47 @@ nav_order: 8
 
 # Non-Public Networks - Tech Resources
 
+[Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/11){: .btn .btn-blue }
+
+<iframe width="60%" height="520" src="../../docs/Tech_NPN.pdf"></iframe>
+
+[Download the slidedeck with more information](../../docs/Tech_NPN.pdf){: .btn .btn-blue }
+
+---
+
+## Information related to Standards
+
+[Standards](../../Standards/pages/npn.html){: .btn .btn-blue }
+
+---
+
+## Technical Documentation
+
+The following resources are available:
+
+### General information about 5G Media Streaming
+
+* [**Introduction to 5G Media Streaming (3GPP Release 16)**](./videos.html#introduction-to-5g-media-streaming-3gpp-release-16)
+* [**Dynamic Policies for 5G Media Streaming (3GPP Release 16)**](./videos.html#dynamic-policies-for-5g-media-streaming-3gpp-release-16)
+* [**5G Media Streaming over eMBMS (3GPP Release 17)**](./videos.html#5g-media-streaming-over-embms-3gpp-release-17)
+* [**Edge Media Processing in 5G Media Streaming (3GPP Release 17)**](./videos.html#edge-media-processing-in-5g-media-streaming-3gpp-release-17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/11)
 * Information on relevant [**Standards**](https://5g-mag.github.io/Standards/pages/npn.html)
 
