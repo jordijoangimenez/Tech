@@ -31,44 +31,7 @@ nav_order: 10
 
 The following resources are available:
 
-### General information about 5G Media Streaming
-
-* [**Introduction to 5G Media Streaming (3GPP Release 16)**](./videos.html#introduction-to-5g-media-streaming-3gpp-release-16)
-* [**Dynamic Policies for 5G Media Streaming (3GPP Release 16)**](./videos.html#dynamic-policies-for-5g-media-streaming-3gpp-release-16)
-* [**5G Media Streaming over eMBMS (3GPP Release 17)**](./videos.html#5g-media-streaming-over-embms-3gpp-release-17)
-* [**Edge Media Processing in 5G Media Streaming (3GPP Release 17)**](./videos.html#edge-media-processing-in-5g-media-streaming-3gpp-release-17)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/13)
-* Information on relevant [**Standards**](https://5g-mag.github.io/Standards/pages/xr.html)
-* **Reference Tools** available:
-   * [**Project: XR Media with MPEG-I Scene Description**](https://5g-mag.github.io/Getting-Started/pages/xr-media-integration-in-5g/)
-
-## Overview
-<iframe width="60%" height="520" src="https://drive.google.com/file/d/1K7wnpqcT9JJKxG1aalmirliELrn87Tzs/preview"></iframe>
-
-[DOWNLOAD THE PRESENTATION](https://drive.google.com/file/d/1K7wnpqcT9JJKxG1aalmirliELrn87Tzs/preview){: .btn}
-
----
-
-<img src="../assets/images/Banner_Explainers.png" width="50%" /> 
+### General information about XR and MPEG-I Scene Description
 
 ## Teaser on 5G and XR (3GPP Release 16/17/18)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0eyTt3KAs4?si=eqrjPkhslTFoEt8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -78,21 +41,3 @@ The following resources are available:
 
 ## Technical Papers
 * [MPEG-I Scene Description: A dynamic scene description framework for immersive media](https://www.ibc.org/download?ac=24724), by T. Stockhammer (Qualcomm), I. Bouazizi (Qualcomm), M.-L. Champel (Xiaomi), E. Potetsianakis (Nokia), E. Thomas (Xiaomi), L. Kondrad (Nokia), E. Alexiou (TNO), G. Martin-Cocher (InterDigital), G. Bhullar (InterDigital), Q. Avril (InterDigital), Q. Galvane (InterDigital), J. Regateiro (InterDigital), P. Hirtzlin (InterDigital)
-
----
-
-<img src="../assets/images/Banner_WorkTracking.png" width="50%" /> 
-
-This is a summary of the work conducted by 5G-MAG members on this topic. Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/13) for details.
-
-### In relation to Standards
-* Documentation on MPEG-I Scene Description extensions to glTF 2.0 3D/XR assets
-* 3GPP and MPEG Standardization tracker and relevant Work Items
-* Support to standards with feedback from implementation
-
-### In relation to Software
-* Implementation of a Unity Player with MAF Accesses for 3D and XR Scenees
-* Implementation of parsing and rendering of glTF extensions defined in MPEG-I Scene Description
-* Implementation of video textures and spatial audio extensions
-* Implementation of interactivity and anchoring
-* Implementation of basic content generation platform based on Blender
