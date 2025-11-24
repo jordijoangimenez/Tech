@@ -11,7 +11,7 @@ nav_order: 14
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/22){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_Multimedia_delivery_protocols.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_Multimedia_delivery_protocols.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_Multimedia_delivery_protocols.pdf){: .btn .btn-blue }
 
