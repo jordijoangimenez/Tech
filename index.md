@@ -1,15 +1,103 @@
 ---
 layout: default
-title: Home
+title: Introduction
 nav_order: 0
 has_children: false
 ---
 
 <img src="./assets/images/Banner_Tech.png" > 
 
-This website provides documentation related to the work conducted within 5G-MAG on the following topics:
+This is the entry point to **5G-MAG's Technical Resources**. It includes resources related to specification analysis and implementation, explainers and reports, videos,...
+
+[Overview about 5G-MAG](#overview-about-5g-mag){: .btn .btn-blue }
 
 ---
+
+<table>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/5g-media-streaming/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Media_Streaming.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/5g-core-service-consumers/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_UE_Data_Collection.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/5g-media-streaming.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/9){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/data-collection-event-exposure.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/21){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/lte-based-5g-broadcast/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Broadcast.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/5g-multicast-broadcast-services/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Multicast_Broadcast.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/lte-based-5g-broadcast.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/10){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/5g-multicast-broadcast-services.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/7){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/5g-multicast-broadcast-services/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Multicast_Broadcast.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/5g-multicast-broadcast-services/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Multicast_Broadcast.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/emergency-alerts/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/12){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/5g-multicast-broadcast-services/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/13){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/xr-media-integration-in-5g/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_XR_Media_MPEG_I_SD.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/v3c-immersive-platform/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_V3C_Immersive_Platform.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/xr-media-integration-in-5g/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/16){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/v3c-immersive-platform/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/15){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/beyond-2d-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Beyond2D_Video_Evaluation.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_AIML_Evaluation_Framework.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/beyond-2d-evaluation-framework/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/10){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/ai-ml-evaluation-framework/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/9){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Multimedia_delivery_protocols.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/dvbi-over-5g/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_DVB_I_over_5G.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Technical Resources](./pages/multimedia-content-delivery/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/14){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Technical Resources](./pages/dvbi-over-5g/){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/48/views/11){: .btn .btn-blue } </td>
+  </tr>
+</table>
+
+# Overview about 5G-MAG
+
+<iframe width="60%" height="520" src="./docs/5G_MAG_Overview.pdf"></iframe>
+
+[Download the slidedeck for an Overview about 5G-MAG](./docs/5G_MAG_Overview.pdf){: .btn .btn-blue }
+
+{: .note }
+Copyright: 5G Media Action Group (5G-MAG). Please refer to the [Getting-Started](https://github.com/5G-MAG/Getting-Started/tree/main/pages) repository to provide updates to this documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="./assets/images/Banner_5GMS.png"/> 
 
