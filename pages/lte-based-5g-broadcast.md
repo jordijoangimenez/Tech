@@ -9,11 +9,60 @@ nav_order: 3
 
 # 5G Broadcast - Tech Resources
 
+[Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/10){: .btn .btn-blue }
+
+<iframe width="60%" height="520" src="../../docs/Tech_5G_Broadcast.pdf"></iframe>
+
+[Download the slidedeck with more information](../../docs/Tech_5G_Broadcast.pdf){: .btn .btn-blue }
+
+---
+
+## Information related to Standards
+
+[Standards](../../Standards/pages/lte-based-5g-broadcast.html){: .btn .btn-blue }
+
+## Information related to Reference Tools Projects
+
+[Project: 5G Broadcast Hybrid Services](../../Getting-Started/pages/lte-based-5g-broadcast/){: .btn .btn-blue }
+
+[Project: Emergency Alerts over 5G Broadcast](../../Getting-Started/pages/emergency-alerts/){: .btn .btn-blue }
+
+---
+
+## Technical Documentation
+
+The following resources are available:
+
+### General information about 5G Media Streaming
+
+* [**Introduction to 5G Media Streaming (3GPP Release 16)**](./videos.html#introduction-to-5g-media-streaming-3gpp-release-16)
+* [**Dynamic Policies for 5G Media Streaming (3GPP Release 16)**](./videos.html#dynamic-policies-for-5g-media-streaming-3gpp-release-16)
+* [**5G Media Streaming over eMBMS (3GPP Release 17)**](./videos.html#5g-media-streaming-over-embms-3gpp-release-17)
+* [**Edge Media Processing in 5G Media Streaming (3GPP Release 17)**](./videos.html#edge-media-processing-in-5g-media-streaming-3gpp-release-17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Check the [**Execution Plan**](https://github.com/orgs/5G-MAG/projects/44/views/10)
 * Information on relevant [**Standards**](https://5g-mag.github.io/Standards/pages/lte-based-5g-broadcast.html)
 * **Reference Tools** available:
-    * [**Project: 5G Broadcast Hybrid Services**](https://5g-mag.github.io/Getting-Started/pages/lte-based-5g-broadcast/)
-    * [**Project: Emergency Alerts over 5G Broadcast**](https://5g-mag.github.io/Getting-Started/pages/emergency-alerts/)
+
 
 ## Overview
 <iframe width="60%" height="520" src="https://drive.google.com/file/d/1T13M-z04JbUdpbKnaYLu4TO8ibxIwlfC/preview"></iframe>
