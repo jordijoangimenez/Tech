@@ -23,6 +23,7 @@ nav_order: 1
 ## Information related to Reference Tools Projects
 
 [Project: 5G Media Streaming](https://5g-mag.github.io/Getting-Started/pages/5g-media-streaming/){: .btn .btn-blue }
+
 [Project: 5G Core Service Consumers](https://5g-mag.github.io/Getting-Started/pages/5g-core-service-consumers/){: .btn .btn-blue }
 
 ---
@@ -45,14 +46,14 @@ The following resources are available:
 
 ### Advanced Media Delivery
 
-* [**Advanced Media Delivery - An Introduction**](./videos.html#advanced-media-delivery---an-introduction)
-* [**Advanced Media Delivery - Remider on 5G Media Streaming**](./videos.html#advanced-media-delivery---remider-on-5g-media-streaming)
-* [**Advanced Media Delivery - Common Client Metadata**](./videos.html#advanced-media-delivery---common-client-metadata)
-* [**Advanced Media Delivery - Multi-CDN Media Delivery**](./videos.html#advanced-media-delivery---multi-cdn-media-delivery)
-* [**Advanced Media Delivery - Multi-Access Media Delivery**](./videos.html#advanced-media-delivery---multi-access-media-delivery)
-* [**Advanced Media Delivery - Distributing encrypted and high-value content**](./videos.html#advanced-media-delivery---distributing-encrypted-and-high-value-content)
-* [**Advanced Media Delivery - Improved QoS support for Media Streaming services**](./videos.html#advanced-media-delivery---improved-qos-support-for-media-streaming-services)
-* [**Advanced Media Delivery - Media Streaming aspects of Network Slicing**](./videos.html#advanced-media-delivery---media-streaming-aspects-of-network-slicing)
-* [**Advanced Media Delivery - In-Session Unicast Repair for MBS/MBMS Obj. Distribution**](./videos.html#advanced-media-delivery---in-session-unicast-repair-for-mbsmbms-obj-distribution)
-* [**Advanced Media Delivery - Time Synchronization**](./videos.html#advanced-media-delivery---time-synchronization)
-* [**Advanced Media Delivery - Initial overview on Release 20**](./videos.html#advanced-media-delivery---initial-overview-on-release-20)
+* [**An Introduction**](./videos.html#advanced-media-delivery---an-introduction)
+* [**Remider on 5G Media Streaming**](./videos.html#advanced-media-delivery---remider-on-5g-media-streaming)
+* [**Common Client Metadata**](./videos.html#advanced-media-delivery---common-client-metadata)
+* [**Multi-CDN Media Delivery**](./videos.html#advanced-media-delivery---multi-cdn-media-delivery)
+* [**Multi-Access Media Delivery**](./videos.html#advanced-media-delivery---multi-access-media-delivery)
+* [**Distributing encrypted and high-value content**](./videos.html#advanced-media-delivery---distributing-encrypted-and-high-value-content)
+* [**Improved QoS support for Media Streaming services**](./videos.html#advanced-media-delivery---improved-qos-support-for-media-streaming-services)
+* [**Media Streaming aspects of Network Slicing**](./videos.html#advanced-media-delivery---media-streaming-aspects-of-network-slicing)
+* [**In-Session Unicast Repair for MBS/MBMS Obj. Distribution**](./videos.html#advanced-media-delivery---in-session-unicast-repair-for-mbsmbms-obj-distribution)
+* [**Time Synchronization**](./videos.html#advanced-media-delivery---time-synchronization)
+* [**Initial overview on Release 20**](./videos.html#advanced-media-delivery---initial-overview-on-release-20)
