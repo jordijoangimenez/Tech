@@ -11,9 +11,9 @@ nav_order: 2
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/21){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../docs/Tech_UE_data_collection.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_UE_Data_Collection.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_UE_data_collection.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../../docs/Tech_UE_Data_Collection.pdf){: .btn .btn-blue }
 
 ---
 
