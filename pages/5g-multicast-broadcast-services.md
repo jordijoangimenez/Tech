@@ -37,6 +37,9 @@ The following resources are available:
 * [**Media distribution with 5G Multicast-Broadcast Services (MBS)**](../docs/Explainer_5G_Multicast_Broadcast_Services.pdf)
 * [**User Services for the 5G Multicast-Broadcast Service (3GPP Release 17)**](./videos.html#user-services-for-the-5g-multicast-broadcast-service-3gpp-release-17)
 
+### Analysis of Time-Frequency Interleaving for 5G Multicast Broadcast Services
+* [**Time and Frequency Interleaving for broadcast services in 3GPP Systems**](../docs/Time_and_Frequency_Interleaving_for_broadcast_services_in_3GPP_Systems.pdf)
+
 ### Architecture aspects of 5G Multicast Broadcast Services
 
 * [**Summary of MBS Service Layer Aspects**](./5g-multicast-broadcast-services/mbs-service-layer.html)
