@@ -7,7 +7,7 @@ nav_order: 2
 
 <img src="../assets/images/Banner_UEDC.png" /> 
 
-# UE Data Collection, Reporting and Event Exposure - Tech Resources
+# UE Data Collection, Reporting & Event Exposure - Tech Resources
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/21){: .btn .btn-blue }
 
