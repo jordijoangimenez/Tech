@@ -12,7 +12,7 @@ nav_order: 4
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/7){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../../docs/Tech_5G_Multicast_Broadcast.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_5G_Multicast_Broadcast.pdf"></iframe>
 
 [Download the slidedeck with more information](../../docs/Tech_5G_Multicast_Broadcast.pdf){: .btn .btn-blue }
 
