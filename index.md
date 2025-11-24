@@ -15,8 +15,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
 
 <table>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/5g-media-streaming.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Media_Streaming.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/data-collection-event-exposure.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_UE_Data_Collection.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/5g-media-streaming.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_5G_Media_Streaming.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/data-collection-event-exposure.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_UE_Data_Collection.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/5g-media-streaming.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/9){: .btn .btn-blue } </td>
@@ -24,8 +24,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/lte-based-5g-broadcast/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Broadcast.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/5g-multicast-broadcast-services/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_5G_Multicast_Broadcast.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/lte-based-5g-broadcast/"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_5G_Broadcast.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/5g-multicast-broadcast-services/"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_5G_Multicast_Broadcast.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/lte-based-5g-broadcast.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/10){: .btn .btn-blue } </td>
@@ -33,8 +33,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/rtc.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_RTC.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/network_apis.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Network_APIs.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/rtc.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_RTC.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/network_apis.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_Network_APIs.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/rtc.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/19){: .btn .btn-blue } </td>
@@ -42,8 +42,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/ntn.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_NTN.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/npn.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_NPN.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/ntn.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_NTN.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/npn.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_NPN.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/ntn.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/6){: .btn .btn-blue } </td>
@@ -51,8 +51,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/tsc.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_TSC.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/xr.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_XR_Media_MPEG_I_SD.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/tsc.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_TSC.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/xr.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_XR_Media_MPEG_I_SD.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/tsc.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/12){: .btn .btn-blue } </td>
@@ -60,8 +60,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/volumetric-video.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_V3C.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/beyond2d.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Beyond2D.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/volumetric-video.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_V3C.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/beyond2d.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_Beyond2D.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Technical Resources](./pages/volumetric-video.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/18){: .btn .btn-blue } </td>
@@ -69,8 +69,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_AIML.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_Multimedia_delivery_protocols.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_AIML.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_Multimedia_delivery_protocols.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Project Documentation](./pages/ai-ml-evaluation-framework/){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/44/views/16){: .btn .btn-blue } </td>
@@ -78,8 +78,8 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
   </tr>
     <td><br></td>
   <tr>
-    <td markdown="span" align="center"><a href="./pages/dvb-i-5g.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_DVB_I_over_5G.png"><a/></td>
-    <td markdown="span" align="center"><a href="./pages/6g.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_6G.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/dvb-i-5g.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_DVB_I_over_5G.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/6g.html"><img width="90%" style="border:5px solid black;" src="./assets/images/Tech_6G.png"><a/></td>
   </tr>
   <tr>
     <td markdown="span" align="center">[Project Documentation](./pages/dvb-i-5g.html){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/44/views/17){: .btn .btn-blue } </td>
