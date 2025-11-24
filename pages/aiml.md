@@ -11,9 +11,9 @@ nav_order: 13
 
 [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/16){: .btn .btn-blue }
 
-<iframe width="60%" height="520" src="../docs/Tech_AIML_Evaluation_Framework.pdf"></iframe>
+<iframe width="60%" height="520" src="../docs/Tech_AIML.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_AIML_Evaluation_Framework.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../../docs/Tech_AIML.pdf){: .btn .btn-blue }
 
 ---
 
