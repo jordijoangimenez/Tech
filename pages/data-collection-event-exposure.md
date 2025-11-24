@@ -13,7 +13,7 @@ nav_order: 2
 
 <iframe width="60%" height="520" src="../docs/Tech_UE_Data_Collection.pdf"></iframe>
 
-[Download the slidedeck with more information](../../docs/Tech_UE_Data_Collection.pdf){: .btn .btn-blue }
+[Download the slidedeck with more information](../docs/Tech_UE_Data_Collection.pdf){: .btn .btn-blue }
 
 ---
 
