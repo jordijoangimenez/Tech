@@ -18,7 +18,7 @@ nav_order: 1
 ---
 
 ## Information related to Standards
-[Standards](https://hub.5g-mag.com/Standards/pages/5g-media-streaming.html){: .btn .btn-blue }
+[Standards](../../Standards/pages/5g-media-streaming.html){: .btn .btn-blue }
 
 ## Information related to Reference Tools Projects
 
