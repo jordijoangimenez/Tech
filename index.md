@@ -67,6 +67,33 @@ This is the entry point to **5G-MAG's Technical Resources**. It includes resourc
     <td markdown="span" align="center">[Technical Resources](./pages/volumetric-video.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/18){: .btn .btn-blue } </td>
     <td markdown="span" align="center">[Technical Resources](./pages/beyond2d.html){: .btn .btn-blue } [Execution Plan](https://github.com/orgs/5G-MAG/projects/44/views/15){: .btn .btn-blue } </td>
   </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/ai-ml-evaluation-framework/"><img width="80%" style="border:5px solid black;" src="./assets/images/Reference_Tools_AIML_Evaluation_Framework.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/multimedia-content-delivery/"><img width="80%" style="border:5px solid black;" src="./assets/images/Reference_Tools_Multimedia_delivery_protocols.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Project Documentation](./pages/ai-ml-evaluation-framework/){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/48/views/9){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Project Documentation](./pages/multimedia-content-delivery/){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/48/views/14){: .btn .btn-blue } </td>
+  </tr>
+    <td><br></td>
+  <tr>
+    <td markdown="span" align="center"><a href="./pages/dvb-i-5g.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_DVB_I_over_5G.png"><a/></td>
+    <td markdown="span" align="center"><a href="./pages/6g.html"><img width="80%" style="border:5px solid black;" src="./assets/images/Tech_6G.png"><a/></td>
+  </tr>
+  <tr>
+    <td markdown="span" align="center">[Project Documentation](./pages/dvb-i-5g.html){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/48/views/11){: .btn .btn-blue } </td>
+    <td markdown="span" align="center">[Project Documentation](./pages/6g.html){: .btn .btn-blue } [Project Roadmap](https://github.com/orgs/5G-MAG/projects/48/views/11){: .btn .btn-blue } </td>
+  </tr>
+
+
+
+
+
+
+
+
+
 </table>
 
 # Overview about 5G-MAG
