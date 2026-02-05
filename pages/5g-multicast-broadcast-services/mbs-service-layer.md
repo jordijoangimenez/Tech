@@ -15,7 +15,7 @@ This documentation is currently **under development and subject to change**. If 
 Void
 
 ## MBS User Services (TS 26.502)
-The primary goal of the MBS User Services architecture specified in TS 26.502 is to provide a higher-level abstraction on top of MBS Services that is more useful to a Content Service Provider, referred to in TS 26.502 as an **MBS Application Provider**. This entity plays the role of the AF/AS in the lower-level MBS Services architecture defined in TS 23.247 and described in section 4 below.
+The primary goal of the MBS User Services architecture specified in TS 26.502 is to provide a higher-level abstraction on top of MBS Services that is more useful to a Content Service Provider, referred to in TS 26.502 as an **MBS Application Provider**. This entity plays the role of the AF/AS in the lower-level MBS Services architecture defined in TS 23.247 and described below.
 
 The MBS User Services abstraction comprises three principal data entities:
 * The **MBS User Service** includes basic top-level metadata about itself, such as a type (broadcast or multicast) name, description and main service language.
