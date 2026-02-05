@@ -1,5 +1,5 @@
 ---
-layout: default-codewrap
+layout: default
 title: MBS - Service Layer
 parent: 5G Multicast Broadcast Services
 has_children: false
