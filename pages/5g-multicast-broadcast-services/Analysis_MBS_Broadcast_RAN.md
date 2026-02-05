@@ -10,6 +10,7 @@ nav_order: 5
 This documentation is currently **under development and subject to change**. If you are interested in becoming a member of the 5G-MAG and actively participating in shaping this work, please contact the [Project Office](https://www.5g-mag.com/contact)
 
 # Analysis of RAN procedures
+  0. Acquiring PLMN and RAN Information
   1. Obtain MIB
   2. Obtain SIB1 (points to SIB20)
   3. SIB20 contains configuration of MCCH
