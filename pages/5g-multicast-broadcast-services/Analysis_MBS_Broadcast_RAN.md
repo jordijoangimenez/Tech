@@ -40,7 +40,8 @@ the associated USD information (see 3GPP TS 26.517) for the MBS user service ann
 
 For definitions refer to **[3GPP TS 38.331](https://www.3gpp.org/DynaReport/38331.htm) Clause 6.2.2**
 
-{: .note } In threory SIB19 is designed for mobility and cell reselection, therefore not needed for MBS Broadcast.
+{: .note }
+SIB19 is designed for mobility and cell reselection, therefore not needed for MBS Broadcast.
 
 ### SIB 20 - Acquisition MCCH/MTCH
 
