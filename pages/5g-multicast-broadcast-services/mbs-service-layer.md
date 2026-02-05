@@ -23,50 +23,6 @@ The MBS User Services abstraction comprises three principal data entities:
 *	Each **MBS Distribution Session** corresponds to one MBS Session in the MB-SMF. In the case of regional variations, the MBS Distribution Session is provisioned with a target region and, as a result, each one maps to a location-specific MBS Service.
 The overall system architecture for MBS User Services (green) and MBS Services (purple) is depicted in figure 3.2-1. The (green) MBS User Services functions are optional in an MBS System: it is valid to omit them entirely, in which case the AF/AS must provision low-level MBS Services directly with the (purple) MB-SMF at reference point Nmb13 (or N33+N29mb, if outside the trusted network), and then injects MBS data directly into the (purple) MB-UPF at reference point N6mb. See section 4 below for details.
 
-```mermaid
----
-title: "MBSTF and associated 5G NFs"
-config:
-  block:
-    padding: 12
-    useMaxWidth: true
----
-block-beta
-    columns 9
-    block: g1:7
-        columns 7
-        space:3 text1["5MBS reference points"] space:3
-        space:4 NEF["NEF"]:3
-        space:7
-        AMF["AMF"] space SMF["SMF"] space MBSMF["MB-SMF"] space MBSF["MBSF"]
-        space:7
-        RAN["NG-RAN"] space UPF["UPF"] space MBUPF["MB-UPF"] space MBSTF["MBSTF"]
-        invis1((" ")) space:3 invis2((" ")) space:2
-    end
-    space AP["MBS Application Provider\n(AF/AS)"]
-    NEF-- "N29mb" ---MBSMF
-    NEF-- "Nmb5" ---MBSF
-    MBSF-- "Nmb1" ---MBSMF
-    MBSMF-- "N16mb" ---SMF
-    MBSF-- "Nmb2" ---MBSTF
-    MBSMF-- "N4mb" ---MBUPF
-    MBSTF-- "Nmb9" ---MBUPF
-    MBUPF-- "N19mb" ---UPF
-    SMF-- "N4" ---UPF
-    SMF-- "N11" ---AMF
-    UPF-- "N3" ---RAN
-    AMF-- "N2" ---RAN
-    MBUPF---invis2
-    invis2-- "N3mb" ---invis1
-    invis1---RAN
-    AP-- "N33" ---NEF
-    AP-- "Nmb10" ---MBSF
-    AP-- "Nmb8" ---MBSTF
-    style invis1 fill: #0000, stroke: #0000, color: #0000
-    style invis2 fill: #0000, stroke: #0000, color: #0000
-    style text1 fill: #0000, stroke: #0000
-```
-
 <figure>
     <img src="https://github.com/user-attachments/assets/ed9b5a84-107e-4d9d-bb24-880ccd3d1e38" alt="Alt text" />
     <figcaption><em>System architecture for MBS Services (purple) and MBS User Services (green) in reference point notation, based on TS 23.247</em></figcaption>
