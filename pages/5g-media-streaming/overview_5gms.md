@@ -17,7 +17,7 @@ In the context of 3GPP standards, 5G Media Streaming (5GMS) is defined as a fram
 
 5GMS is not a separate network but a functional extension of the standard 5G System Architecture (TS 23.501). It is the bridge that allows 5G networks to move away from being a "data pipe" and instead become an active, optimized platform for professional and user-generated media content.
 
-<img src="./images/5GMS_General.png" width="80%">
+<img src="./images/5GMS_General.png" width="60%">
 
 The main functional entities are:
 
@@ -36,7 +36,7 @@ Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pa
 
 To deliver downlink streaming services, the network is the origin of the media and the UE acts as the consumption device.
  
-<img src="./images/5GMS_Downlink.png" width="80%">
+<img src="./images/5GMS_Downlink.png" width="60%">
 
 The main functional entities are:
 
