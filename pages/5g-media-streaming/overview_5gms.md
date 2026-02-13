@@ -31,6 +31,9 @@ The main functional entities are:
 
 # 5G Unicast Downlink Media Streaming (5GMSd)
 
+{: .referencetools }
+Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pages/5g-media-streaming/)
+
 To deliver downlink streaming services, the network is the origin of the media and the UE acts as the consumption device.
  
 <img src="./images/5GMS_Downlink.png" width="80%">
@@ -76,6 +79,3 @@ The interfaces are:
 | **M6d** | **UE Media Session Handling APIs** | Internal UE APIs that allow the **5GMSd-Aware App** and the **Media Player** to access 5GMS session functions. |
 | **M7d** | **UE Media Player APIs** | Internal UE APIs used by the **5GMSd-Aware App** and **Session Handler** to control playback and media engine functions. |
 | **M8d** | **Application API** | An external interface for "service-level" exchange (like metadata or login) between the **App** and the **Provider**. This is **not specified** by 3GPP. |
-
-{: .referencetools }
-Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pages/5g-media-streaming/)
