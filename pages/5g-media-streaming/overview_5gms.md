@@ -56,7 +56,7 @@ The main functional entities are:
 
 The 5GMSd Client may include several subfunctions which are depicted below:
 
-<table>
+<table style="width:80%">
   <tr>
     <td markdown="span" align="center"><img src="./images/5GMS_MediaPlayer.png" width="60%"><a/></td>
     <td markdown="span" align="center"><img src="./images/5GMS_MediaSessionHandler.png" width="60%"><a/></td>
