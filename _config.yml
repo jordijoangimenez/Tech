@@ -61,7 +61,9 @@ callouts:
   warning:
     title: Warning
     color: red
-
+  referencetools:
+    title: Reference Tools Available !
+    color: green
 # Footer content
 # appears at the bottom of every page's main content
 
