@@ -34,7 +34,7 @@ Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pa
 ### Description
 The content hosting feature provides a service equivalent to a Content Delivery Network (CDN) deployed inside or outside the Trusted DN.
 
-<img src="./images/5GMS_ContentHosting.png" width="80%">
+<img src="./images/5GMS_ContentHosting.png" width="60%">
 
 ### Reference points and interactions (according to 3GPP TS 26.510)
 
@@ -54,7 +54,7 @@ M5 | 5.3.2 | [Service Access Information API](https://jdegre.github.io/loader.ht
 ### Description
 The network assistance feature enables the 5GMS Client in the UE to interrogate or manipulate the network Quality of Service for an ongoing media streaming session. It defines two mechanisms for obtaining network assistance via interactions with the PCF (AF-based network assistance) or via ANBR signalling interactions between the UE modem and the RAN (ANBR-based network assistance). 
 
-<img src="./images/5GMS_NetworkAssistance.png" width="80%">
+<img src="./images/5GMS_NetworkAssistance.png" width="60%">
 
 Both mechanisms allow to obtain:
 
@@ -80,7 +80,7 @@ M5 | 5.3.4 | [Network Assistance API](https://jdegre.github.io/loader.html?yaml=
 ### Description
 The dynamic policies feature enables the 5GMS Client in the UE to manipulate the network traffic handling policies for an ongoing media streaming session.
 
-<img src="./images/5GMS_DynamicPolicies.png" width="80%">
+<img src="./images/5GMS_DynamicPolicies.png" width="60%">
 
 ### Reference points and interactions (according to 3GPP TS 26.510)
 
@@ -99,7 +99,7 @@ Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pa
 ### Description
 The consumption reporting feature allows consumption of downlink media streaming to be logged by the 5GMS System and exposed for analysis.
 
-<img src="./images/5GMS_ConsumptionReporting.png" width="80%">
+<img src="./images/5GMS_ConsumptionReporting.png" width="60%">
 
 ### Reference points and interactions (according to 3GPP TS 26.510)
 
@@ -119,7 +119,7 @@ Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pa
 
 The QoE metrics reporting feature enables the 5GMS System to log and expose streaming performance data for further analysis.
 
-<img src="./images/5GMS_MetricsReporting.png" width="80%">
+<img src="./images/5GMS_MetricsReporting.png" width="60%">
 
 The framework defines two distinct reporting paths:
 
