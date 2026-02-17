@@ -99,7 +99,9 @@ Feature | Description | Procedure | APIs
 **Data collection, reporting and exposure** | 3GPP TS 26.501 4.0.12 | 3GPP TS 26.501 5.11 | 3GPP TS 26.510 + 26.512
 
 ## Creation of Provisioning Session
-Note that before the required features of the 5GMS System can be used by 5GMS Clients, they are first provisioned by a 5GMS Application Provider creating one or more _Provisioning Sessions_. The 5GMSd Application Provider can then specify one or more 5GMSd features in the Provisioning Session. 
+Note that before the required features of the 5GMS System can be used by 5GMS Clients, they are first provisioned by a 5GMS Application Provider creating one or more _Provisioning Sessions_. The 5GMSd Application Provider can then specify one or more 5GMSd features in the Provisioning Session.
+
+The Provisioning Session information may include Content Hosting Configurations, Content Preparation Templates, Server Certificates, Policy Templates, a Consumption Reporting Configuration, Metrics Reporting Configurations, Edge Resources Configurations and Event Data Processing Configurations.
 
 ## Retrieval of Service Access Information
 The Service Access Information is the set of parameters and addresses which are needed by the 5GMSd Client to activate and control the reception of a downlink streaming session, and to report service/content consumption and/or QoE metrics. 
