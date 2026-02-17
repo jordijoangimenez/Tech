@@ -29,10 +29,11 @@ The main functional entities are:
 
 * **5GMS Client**: The functional part of the user's device (UE) that handles the media session and the player/streamer logic.
 
-# 5G Unicast Downlink Media Streaming (5GMSd)
+A list of relevant specifications can be found in the link below.
 
-{: .referencetools }
-Go to the [5G Media Streaming Project](https://hub.5g-mag.com/Getting-Started/pages/5g-media-streaming/)
+[Specifications](https://hub.5g-mag.com/Standards/pages/5g-media-streaming.html){: .btn .btn-blue }
+
+# 5G Unicast Downlink Media Streaming (5GMSd)
 
 To deliver downlink streaming services, the network is the origin of the media and the UE acts as the consumption device.
  
@@ -67,6 +68,8 @@ The 5GMSd Client may include several subfunctions which are depicted below:
   </tr>
 </table>
 
+## Interfaces for 5GMSd
+
 The interfaces are:
 
 | Interface | Name | Description |
@@ -79,3 +82,25 @@ The interfaces are:
 | **M6d** | **UE Media Session Handling APIs** | Internal UE APIs that allow the **5GMSd-Aware App** and the **Media Player** to access 5GMS session functions. |
 | **M7d** | **UE Media Player APIs** | Internal UE APIs used by the **5GMSd-Aware App** and **Session Handler** to control playback and media engine functions. |
 | **M8d** | **Application API** | An external interface for "service-level" exchange (like metadata or login) between the **App** and the **Provider**. This is **not specified** by 3GPP. |
+
+## Key Features for 5GMSd and APIs
+
+The following features are defined for 5GMSd.
+
+Feature | Description | Procedure | APIs 
+--- | --- | --- | ---
+**Content hosting** | 3GPP TS 26.501 4.0.2 | 3GPP TS 26.501 5.4 | 3GPP TS 26.510 + 26.512
+**Network assistance** | 3GPP TS 26.501 4.0.5 | 3GPP TS 26.501 5.9 | 3GPP TS 26.510 + 26.512
+**Dynamic policies** | 3GPP TS 26.501 4.0.6 | 3GPP TS 26.501 5.8 | 3GPP TS 26.510 + 26.512
+**Consumption reporting** | 3GPP TS 26.501 4.0.8 | 3GPP TS 26.501 5.6 | 3GPP TS 26.510 + 26.512
+**QoE metrics reporting** | 3GPP TS 26.501 4.0.9 | 3GPP TS 26.501 5.5 | 3GPP TS 26.510 + 26.512
+**Edge processing** | 3GPP TS 26.501 4.0.10 | 3GPP TS 26.501 8 | 3GPP TS 26.510 + 26.512
+**eMBMS delivery** | 3GPP TS 26.501 4.0.11 | 3GPP TS 26.501 5.10 | 3GPP TS 26.510 + 26.512
+**Data collection, reporting and exposure** | 3GPP TS 26.501 4.0.12 | 3GPP TS 26.501 5.11 | 3GPP TS 26.510 + 26.512
+
+## Creation of Provisioning Session
+Note that before the required features of the 5GMS System can be used by 5GMS Clients, they are first provisioned by a 5GMS Application Provider creating one or more _Provisioning Sessions_. The 5GMSd Application Provider can then specify one or more 5GMSd features in the Provisioning Session. 
+
+## Retrieval of Service Access Information
+The Service Access Information is the set of parameters and addresses which are needed by the 5GMSd Client to activate and control the reception of a downlink streaming session, and to report service/content consumption and/or QoE metrics. 
+The Service Access Information may be provided together with other service announcement information using M8d. Alternatively, the 5GMSd Client fetches the Service Access Information from the 5GMSd AF.
