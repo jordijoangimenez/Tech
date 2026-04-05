@@ -22,47 +22,8 @@ nav_order: 3
 <!-- KANBAN_START -->
 
 <div id='kanban-display' style='font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;'>
-<p style='font-size: 12px; color: #586069; margin-bottom: 20px;'>Last Sync: 2026-04-04 00:27 UTC</p>
+<p style='font-size: 12px; color: #586069; margin-bottom: 20px;'>Last Sync: 2026-04-05 01:23 UTC</p>
 
-<h3 style='border-bottom: 1px solid #eaecef; padding-bottom: 8px; margin-top: 30px; color: #24292e;'>Work in Progress</h3>
-
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/61" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            5G Broadcast Deployment Profiles
-        </a>
-    </div>
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/62" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            5G Broadcast Operational Parameters in Use
-        </a>
-    </div>
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/75" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            Publication of ETSI TS 103 720 v1.3.1
-        </a>
-    </div>
-<h3 style='border-bottom: 1px solid #eaecef; padding-bottom: 8px; margin-top: 30px; color: #24292e;'>Completed</h3>
-
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/58" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            Explainer on LTE-based 5G Terrestrial Broadcast for TV and radio distribution
-        </a>
-    </div>
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/59" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            Explainer on Spectrum for LTE-based 5G Terrestrial Broadcast
-        </a>
-    </div>
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/60" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            Technical Report on Time and Frequency Interleaving for broadcast services in 3GPP Systems
-        </a>
-    </div>
-    <div style="margin-bottom: 12px; padding: 15px; border: 1px solid #d1d5da; border-radius: 8px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); opacity: 1.0;">
-        <a href="https://github.com/5G-MAG/Tech/issues/74" style="text-decoration: none; color: #0366d6; font-size: 15px; font-weight: 600; display: block;">
-            Publication of ETSI TS 103 720 v1.2.1
-        </a>
-    </div>
 </div>
 
 <!-- KANBAN_END -->
